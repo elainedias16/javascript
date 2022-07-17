@@ -80,3 +80,18 @@ console.log(q1 || q2)
 console.log( !q1)
 
 //Operador ternario
+
+
+
+
+//strings
+//comparation ==
+console.log('a' == 'a')
+
+//concat +
+console.log('a' + 'a')
+
+let alpha = 'alpha'
+alpha += 'bet'
+
+console.log(alpha)
